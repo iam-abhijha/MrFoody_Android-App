@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Mr. Foody</string>
+    <string name="home">Home</string>
+    <string name="profile">User Profile</string>
+    <string name="favourite">Favourites</string>
+    <string name="history">Order History</string>
+    <string name="faq">FAQs</string>
+    <string name="logout">Log Out</string>
+    <string name="navigation_drawer">Mr. Foody</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="developer">By Abhinandan</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Home Fragment</string>
+</resources>
